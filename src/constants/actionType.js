@@ -1,0 +1,9 @@
+export const AUTH = 'AUTH';
+export const LOGOUT = 'LOGOUT';
+export const CREATE_TASK = 'CREATE_TASK';
+export const FETCH_ALL_TASK = 'FETCH_ALL_TASK';
+export const FETCH_DATA = 'FETCH_DATA';
+export const UPDATE_TASK = 'UPDATE_TASK';
+export const DELETE_TASK = 'DELETE_TASK';
+export const START_LOADING = 'START_LOADING';
+export const FETCH_USERS = 'FETCH_USERS'
